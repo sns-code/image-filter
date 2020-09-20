@@ -1,5 +1,5 @@
 {
-  "name": "image-filter",
+  "name": "@sns-code/image-filter",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sumit-nf/image-filter.git"
+    "url": "git+https://github.com/sns-code/image-filter.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": ["image filter"],
   "author": "Sumit Chaudhari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sumit-nf/image-filter/issues"
+    "url": "https://github.com/sns-code/image-filter/issues"
   },
-  "homepage": "https://github.com/sumit-nf/image-filter#readme"
+  "homepage": "https://github.com/sns-code/image-filter#readme"
 }
