@@ -1,4 +1,4 @@
-### image-filter
+### @sc-code/image-filter
 
 this package will help you to apply filter on any image. 
 
