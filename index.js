@@ -295,10 +295,6 @@ function hexToRgb(hex) {
 }
 
 const getImageFilter = (color) => {
-    if (color.length !== 3 && color.length !== 6) {
-      return color;
-    }
-
     const rgb = hexToRgb(color);
 
     const colorCode = new Color(rgb[0], rgb[1], rgb[2]);
